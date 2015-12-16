@@ -1,5 +1,5 @@
-#Literally Hitler
+#Call Me Ishmael
 
 #####A Markov bot
 
-Literally Hitler is a Markov bot build from the English translated text of Mein Kampf. She will post to the twitter account at twitter.com/HitlerLiterally priodically.
+Call Me Ishmael is a Markov bot which relays the story of captain Ahab and his white whale as the least faithful narrator imaginable. 
